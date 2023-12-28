@@ -1,6 +1,6 @@
 export const buttonPressAudio = new Audio('./assets/button-press.wav')
 
-export const KitchenTimer = new Audio('./assets/kitchen-timer.mp3')
+export const KitchenTimer = new Audio('./assets/kichen-timer.mp3')
 
 export const bgAudio = new Audio('./assets/bg-audio.mp3')
 
