@@ -20,7 +20,6 @@ export function countdown(){
   if(minutes < 0){
     reset();
     KitchenTimer.play();
-    buttonPressAudio.pause();
     return;
   }
   updateDisplay(minutes,seconds);
